@@ -1,5 +1,3 @@
-# Exceptionless
-
 [![Exceptionless](https://raw.githubusercontent.com/exceptionless/MediaKit/main/exceptionless-dark-bg.svg#gh-dark-mode-only "Exceptionless")](https://exceptionless.com#gh-dark-mode-only)
 [![Exceptionless](https://raw.githubusercontent.com/exceptionless/MediaKit/main/exceptionless.svg#gh-light-mode-only "Exceptionless")](https://exceptionless.com#gh-light-mode-only)
 
